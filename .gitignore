@@ -1,5 +1,4 @@
 # custom
-source_data/*
 *.csv
 *.xlsx
 *.zip
