@@ -4,6 +4,7 @@ from utils import merge_data
 
 filePath = "enter filename.csv"
 
+# which date colum (key) has which value columns (list)
 timepairs = {"Date_2278":["Height_2278 [mm]","Temp._2278 [°C]","Batt_2278 [V]"],
             "Date_2279":["Height_2279 [mm]","Temp._2279 [°C]","Batt_2279 [V]"],
             "Date_2224":["Height_2224 [mm]","Temp._2224 [°C]","Batt_2224 [V]"],
